@@ -1,7 +1,10 @@
 # Welcome!
 You'll need:
+
 $ pip install Pillow
+
 $ pip install numpy
+
 $ pip install matplotlib 
 
-It will execute on jupyter notebook
+download the jupyter notebook, and then execute on your cmd.
